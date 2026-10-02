@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Trough the Verilog code it makes the emoji go by the screen rebounding on the borders
 
 ## How to test
 
-Explain how to use your project
+Connect to a VGA monitor and see the magic
 
 ## External hardware
 
